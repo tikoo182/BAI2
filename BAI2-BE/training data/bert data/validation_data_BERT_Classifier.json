@@ -1,0 +1,4642 @@
+[
+  {
+    "text": "Which product line has the largest stock quantity available?",
+    "label": 1,
+    "label_text": "cl2"
+  },
+  {
+    "text": "Which product has the highest MSRP in each product line?",
+    "label": 2,
+    "label_text": "cl3"
+  },
+  {
+    "text": "Which product has the highest MSRP in each product line?",
+    "label": 2,
+    "label_text": "cl3"
+  },
+  {
+    "text": "What is the total amount of payments received from Sweden?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "What is the total amount of payments received from Japan?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "What is the total amount of payments received from Canada?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "What is the total amount of payments received from Philippines?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "What is the total sum received from USA?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "What is the total sum received from Australia?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "What is the total sum received from UK?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "What is the total sum received from Canada?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "What is the total sum received from Switzerland?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "How many orders were placed in Tavern?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in San Francisco?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Madrid?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Kobenhavn?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Bergen?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Kita-ku?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Pasadena?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in \u00c5rhus?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Torino?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Oslo?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Amsterdam?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Bruxelles?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in White Plains?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Philadelphia?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Cork?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Marseille?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Bern?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Munich?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Leipzig?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Glen Waverly?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed in Herzlia?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in each city?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in NYC?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in Manchester?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in Vancouver?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in Central Hong Kong?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in Glendale?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in \u00c5rhus?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in Toulouse?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in Bruxelles?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in White Plains?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in Newark?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in Makati City?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in Minato-ku?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in Graz?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in Herzlia?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were registered in Sevilla?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from each city?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Frankfurt?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from NYC?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Bergen?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Lille?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Dublin?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Glendale?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from \u00c5rhus?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Cowes?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Torino?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from K\u00f6ln?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from M\u00fcnchen?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Oslo?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from London?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Espoo?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Philadelphia?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Marseille?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Reggio Emilia?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Graz?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Glen Waverly?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders come from Burbank?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "What is the total quantity ordered for 2002 Suzuki XREO?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1968 Dodge Charger?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1969 Dodge Charger?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1995 Honda Civic?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1998 Chrysler Plymouth Prowler?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1926 Ford Fire Engine?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1936 Harley Davidson El Knucklehead?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1928 Mercedes-Benz SSK?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1913 Ford Model T Speedster?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 18th Century Vintage Horse Carriage?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Collectable Wooden Train?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1941 Chevrolet Special Deluxe Cabriolet?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1970 Triumph Spitfire?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1932 Alfa Romeo 8C2300 Spider Sport?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1904 Buick Runabout?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1936 Mercedes Benz 500k Roadster?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1936 Chrysler Airflow?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1961 Chevrolet Impala?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1996 Peterbilt 379 Stake Bed with Outrigger?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 1974 Ducati 350 Mk3 Desmo?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for 2002 Yamaha YZR M1?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for America West Airlines B757-200?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 1952 Alpine Renault 1300?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 2002 Suzuki XREO?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 1968 Dodge Charger?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 1970 Plymouth Hemi Cuda?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 1965 Aston Martin DB5?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 1928 Mercedes-Benz SSK?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 1934 Ford V8 Coupe?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 1904 Buick Runabout?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 1940s Ford truck?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 1966 Shelby Cobra 427 S/C?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 1939 Chevrolet Deluxe Coupe?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 1938 Cadillac V-16 Presidential Limousine?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 1982 Ducati 996 R?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many units were ordered for 1954 Greyhound Scenicruiser?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1968 Dodge Charger?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1940 Ford Pickup Truck?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1993 Mazda RX-7?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1936 Harley Davidson El Knucklehead?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1934 Ford V8 Coupe?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1948 Porsche Type 356 Roadster?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1957 Vespa GS150?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1932 Alfa Romeo 8C2300 Spider Sport?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1940s Ford truck?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1997 BMW R 1100 S?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1939 Chevrolet Deluxe Coupe?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1982 Ducati 900 Monster?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1958 Chevy Corvette Limited Edition?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1952 Citroen-15CV?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1971 Alpine Renault 1600s?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1956 Porsche 356A Coupe?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1936 Mercedes Benz 500k Roadster?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1936 Chrysler Airflow?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1900s Vintage Tri-Plane?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1980\u2019s GM Manhattan Express?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1996 Peterbilt 379 Stake Bed with Outrigger?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for 1930 Buick Marquette Phaeton?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for Diamond T620 Semi-Skirted Tanker?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for The Schooner Bluenose?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for American Airlines: B767-300?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for The Mayflower?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much was it ordered for HMS Bounty?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the average payment amount received by Asian Shopping Network, Co?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Auto Associ\u00e9s & Cie.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by AV Stores, Co.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Bavarian Collectables Imports, Co.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Classic Legends Inc.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Daedalus Designs Imports?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Euro+ Shopping Channel?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Frau da Collezione?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Gift Depot Inc.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Gift Ideas Corp.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by giftsbymail.co.uk?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Kommission Auto?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Kremlin Collectables, Co.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by L'ordine Souveniers?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by La Corne D'abondance, Co.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Marseille Mini Autos?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Mini Caravy?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Motor Mint Distributors Inc.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Online Diecast Creations Co.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Rovelli Gifts?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Salzburg Collectables?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Signal Collectibles Ltd.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Suominen Souveniers?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by UK Collectables, Ltd.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Vida Sport, Ltd?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What is the average payment amount received by Volvo Model Replicas, Co?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Anton Designs, Ltd.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Australian Collectables, Ltd?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Corporate Gift Ideas Co.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Corrida Auto Replicas, Ltd?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Frau da Collezione?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Havel & Zbyszek Co?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Marseille Mini Autos?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Mini Caravy?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Mini Classics?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Motor Mint Distributors Inc.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Online Mini Collectables?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Reims Collectables?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Stylish Desk Decors, Co.?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "What's the average payment from Tokyo Collectables, Ltd?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from Amica Models & Co. in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from ANG Resellers in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from Collectable Mini Designs Co. in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from Corrida Auto Replicas, Ltd in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from Cruz & Sons Co. in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from Diecast Collectables in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from FunGiftIdeas.com in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from Gift Depot Inc. in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from giftsbymail.co.uk in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from La Corne D'abondance, Co. in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from Mit Vergn\u00fcgen & Co. in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from Motor Mint Distributors Inc. in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from Signal Gift Stores in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from Stylish Desk Decors, Co. in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from The Sharp Gifts Warehouse in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Average payment from Volvo Model Replicas, Co in the last six months?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "ANG Resellers's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Asian Shopping Network, Co's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Atelier graphique's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "AV Stores, Co.'s monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Clover Collections, Co.'s monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Collectable Mini Designs Co.'s monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Collectables For Less Inc.'s monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Corrida Auto Replicas, Ltd's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Der Hund Imports's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Euro+ Shopping Channel's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "FunGiftIdeas.com's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "giftsbymail.co.uk's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Iberia Gift Imports, Corp.'s monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Kremlin Collectables, Co.'s monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Land of Toys Inc.'s monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Mini Creations Ltd.'s monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Mini Gifts Distributors Ltd.'s monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Mini Wheels Co.'s monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Nat\u00fcrlich Autos's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Norway Gifts By Mail, Co.'s monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Online Mini Collectables's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "SAR Distributors, Co's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Souveniers And Things Co.'s monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "The Sharp Gifts Warehouse's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Tokyo Collectables, Ltd's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Toms Spezialit\u00e4ten, Ltd's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Toys4GrownUps.com's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "Warburg Exchange's monthly payment average?",
+    "label": 6,
+    "label_text": "ncl4"
+  },
+  {
+    "text": "How many products are available in each product line?",
+    "label": 7,
+    "label_text": "ncl5"
+  },
+  {
+    "text": "How many products are available in Planes?",
+    "label": 7,
+    "label_text": "ncl5"
+  },
+  {
+    "text": "How many products are available in Vintage Cars?",
+    "label": 7,
+    "label_text": "ncl5"
+  },
+  {
+    "text": "How many products in Classic Cars?",
+    "label": 7,
+    "label_text": "ncl5"
+  },
+  {
+    "text": "How many products in Motorcycles?",
+    "label": 7,
+    "label_text": "ncl5"
+  },
+  {
+    "text": "How many products in Trains?",
+    "label": 7,
+    "label_text": "ncl5"
+  },
+  {
+    "text": "Product count in Planes?",
+    "label": 7,
+    "label_text": "ncl5"
+  },
+  {
+    "text": "Number of available products in each product line?",
+    "label": 7,
+    "label_text": "ncl5"
+  },
+  {
+    "text": "Number of available products in Motorcycles?",
+    "label": 7,
+    "label_text": "ncl5"
+  },
+  {
+    "text": "Number of available products in Trains?",
+    "label": 7,
+    "label_text": "ncl5"
+  },
+  {
+    "text": "What is the total sales revenue generated by ANG Resellers?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Boards & Toys Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by CAF Imports?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Cambridge Collectables Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Classic Legends Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Clover Collections, Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Der Hund Imports?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Diecast Collectables?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Double Decker Gift Stores, Ltd?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Enaco Distributors?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Feuer Online Stores, Inc?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Gift Ideas Corp.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Gifts4AllAges.com?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Handji Gifts& Co?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Kommission Auto?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Marseille Mini Autos?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Marta's Replicas Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Microscale Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Mini Gifts Distributors Ltd.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Muscle Machine Inc?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Nat\u00fcrlich Autos?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Online Diecast Creations Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Osaka Souveniers Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Reims Collectables?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Schuyler Imports?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Vitachrome Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated by Volvo Model Replicas, Co?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Asian Treasures, Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Auto Associ\u00e9s & Cie.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Blauer See Auto, Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Classic Legends Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Collectable Mini Designs Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Collectables For Less Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Corporate Gift Ideas Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Daedalus Designs Imports?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Diecast Collectables?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Extreme Desk Decorations, Ltd?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Franken Gifts, Co?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Frau da Collezione?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Gift Ideas Corp.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Herkku Gifts?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Kelly's Gift Shop?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Lyon Souveniers?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Microscale Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Mini Classics?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Mini Gifts Distributors Ltd.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Motor Mint Distributors Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Nat\u00fcrlich Autos?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Osaka Souveniers Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Porto Imports Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from SAR Distributors, Co?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Scandinavian Gift Ideas?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Schuyler Imports?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Stuttgart Collectable Exchange?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Stylish Desk Decors, Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Technics Stores Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Vitachrome Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue from Volvo Model Replicas, Co?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by each customer name?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by American Souvenirs Inc?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by ANG Resellers?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Anna's Decorations, Ltd?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Auto-Moto Classics Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Baane Mini Imports?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by BG&E Collectables?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Canadian Gift Exchange Network?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Classic Legends Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Collectable Mini Designs Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Double Decker Gift Stores, Ltd?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Feuer Online Stores, Inc?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Gift Ideas Corp.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by giftsbymail.co.uk?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by GiftsForHim.com?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Heintze Collectables?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Herkku Gifts?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Iberia Gift Imports, Corp.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Kelly's Gift Shop?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by King Kong Collectables, Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Land of Toys Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Lyon Souveniers?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Marseille Mini Autos?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Osaka Souveniers Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Precious Collectables?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Rovelli Gifts?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Salzburg Collectables?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Saveley & Henriot, Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Signal Collectibles Ltd.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Technics Stores Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Tekni Collectables Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Toys of Finland, Co.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Revenue generated by Vitachrome Inc.?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did each customer name generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Amica Models & Co. generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did ANG Resellers generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Anton Designs, Ltd. generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Atelier graphique generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Auto Canal+ Petit generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Canadian Gift Exchange Network generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Cramer Spezialit\u00e4ten, Ltd generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Down Under Souveniers, Inc generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Enaco Distributors generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did FunGiftIdeas.com generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Kremlin Collectables, Co. generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did L'ordine Souveniers generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Land of Toys Inc. generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Marseille Mini Autos generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Mini Creations Ltd. generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Motor Mint Distributors Inc. generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Online Diecast Creations Co. generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Porto Imports Co. generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Rovelli Gifts generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Stuttgart Collectable Exchange generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Stylish Desk Decors, Co. generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Tekni Collectables Inc. generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Tokyo Collectables, Ltd generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Toms Spezialit\u00e4ten, Ltd generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue did Toys4GrownUps.com generate?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the average credit limit for customers in France?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What is the average credit limit for customers in Australia?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What is the average credit limit for customers in Belgium?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What is the average credit limit for customers in Austria?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What is the average credit limit for customers in Israel?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "Average credit limit for customers in each country?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "Average credit limit for customers in Singapore?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "Average credit limit for customers in Japan?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "Average credit limit for customers in Ireland?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "Average credit limit for customers in Hong Kong?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What's the average credit limit in Norway?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What's the average credit limit in Germany?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What's the average credit limit in Denmark?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What's the average credit limit in Japan?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What's the average credit limit in Canada?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What's the average credit limit in Hong Kong?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What's the average credit limit in Italy?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What's the average credit limit in South Africa?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What's the average credit limit in Austria?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "What's the average credit limit in Israel?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "Average credit limit of customers from Norway?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "Average credit limit of customers from Singapore?",
+    "label": 9,
+    "label_text": "ncl7"
+  },
+  {
+    "text": "How many orders are each status category?",
+    "label": 10,
+    "label_text": "ncl8"
+  },
+  {
+    "text": "How many orders are Shipped?",
+    "label": 10,
+    "label_text": "ncl8"
+  },
+  {
+    "text": "How many orders are Cancelled?",
+    "label": 10,
+    "label_text": "ncl8"
+  },
+  {
+    "text": "How many orders are In Process?",
+    "label": 10,
+    "label_text": "ncl8"
+  },
+  {
+    "text": "Number of orders that are Shipped?",
+    "label": 10,
+    "label_text": "ncl8"
+  },
+  {
+    "text": "Number of orders that are On Hold?",
+    "label": 10,
+    "label_text": "ncl8"
+  },
+  {
+    "text": "Number of orders that are In Process?",
+    "label": 10,
+    "label_text": "ncl8"
+  },
+  {
+    "text": "How many orders are currently Resolved?",
+    "label": 10,
+    "label_text": "ncl8"
+  },
+  {
+    "text": "What is the total quantity sold for each product line?",
+    "label": 11,
+    "label_text": "ncl9"
+  },
+  {
+    "text": "What is the total quantity sold for Ships?",
+    "label": 11,
+    "label_text": "ncl9"
+  },
+  {
+    "text": "What is the total quantity sold for Trucks and Buses?",
+    "label": 11,
+    "label_text": "ncl9"
+  },
+  {
+    "text": "Total quantity sold for Vintage Cars?",
+    "label": 11,
+    "label_text": "ncl9"
+  },
+  {
+    "text": "Quantity of each product line sold in total?",
+    "label": 11,
+    "label_text": "ncl9"
+  },
+  {
+    "text": "How many payments were made by Alpha Cognac?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Baane Mini Imports?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by CAF Imports?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Collectable Mini Designs Co.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by GiftsForHim.com?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Lyon Souveniers?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Mini Wheels Co.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Muscle Machine Inc?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Norway Gifts By Mail, Co.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Online Diecast Creations Co.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Online Mini Collectables?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Salzburg Collectables?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by SAR Distributors, Co?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Suominen Souveniers?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Technics Stores Inc.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Toys4GrownUps.com?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Volvo Model Replicas, Co?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Amica Models & Co.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Baane Mini Imports?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Clover Collections, Co.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Double Decker Gift Stores, Ltd?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Dragon Souveniers, Ltd.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Frau da Collezione?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by giftsbymail.co.uk?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Kelly's Gift Shop?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Kommission Auto?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Land of Toys Inc.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Lyon Souveniers?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Marta's Replicas Co.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Messner Shopping Network?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Mini Caravy?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Mini Creations Ltd.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Mini Wheels Co.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Online Mini Collectables?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Precious Collectables?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Raanan Stores, Inc?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Royale Belge?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by SAR Distributors, Co?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Signal Gift Stores?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Suominen Souveniers?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Technics Stores Inc.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Amica Models & Co. made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Anna's Decorations, Ltd made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Asian Shopping Network, Co made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Australian Gift Network, Co made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Auto Associ\u00e9s & Cie. made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Auto-Moto Classics Inc. made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Blauer See Auto, Co. made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has CAF Imports made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Cambridge Collectables Co. made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Cramer Spezialit\u00e4ten, Ltd made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Der Hund Imports made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Enaco Distributors made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has giftsbymail.co.uk made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Havel & Zbyszek Co made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has King Kong Collectables, Co. made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Microscale Inc. made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Mit Vergn\u00fcgen & Co. made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Muscle Machine Inc made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Saveley & Henriot, Co. made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Signal Gift Stores made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Souveniers And Things Co. made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Stuttgart Collectable Exchange made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Tekni Collectables Inc. made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Tokyo Collectables, Ltd made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Toms Spezialit\u00e4ten, Ltd made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Toys of Finland, Co. made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments has Volvo Model Replicas, Co made?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for ANG Resellers?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Asian Treasures, Inc.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Auto Associ\u00e9s & Cie.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Auto-Moto Classics Inc.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Cruz & Sons Co.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Danish Wholesale Imports?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Double Decker Gift Stores, Ltd?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Franken Gifts, Co?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for FunGiftIdeas.com?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Kommission Auto?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for La Corne D'abondance, Co.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Lyon Souveniers?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Mini Auto Werke?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Motor Mint Distributors Inc.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Online Mini Collectables?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Precious Collectables?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Rovelli Gifts?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Royal Canadian Collectables, Ltd.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Saveley & Henriot, Co.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Schuyler Imports?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Signal Collectibles Ltd.?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Suominen Souveniers?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Tokyo Collectables, Ltd?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Volvo Model Replicas, Co?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "What is the average buy price for products in Motorcycles?",
+    "label": 13,
+    "label_text": "ncl11"
+  },
+  {
+    "text": "What is the average buy price for products in Trains?",
+    "label": 13,
+    "label_text": "ncl11"
+  },
+  {
+    "text": "What is the average buy price for products in Vintage Cars?",
+    "label": 13,
+    "label_text": "ncl11"
+  },
+  {
+    "text": "What is the total quantity ordered for each customer name?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for American Souvenirs Inc?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Amica Models & Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Anton Designs, Ltd.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Atelier graphique?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Boards & Toys Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Clover Collections, Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Collectables For Less Inc.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Danish Wholesale Imports?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Der Hund Imports?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Diecast Collectables?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Franken Gifts, Co?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Gifts4AllAges.com?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Heintze Collectables?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for La Corne D'abondance, Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Lyon Souveniers?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Marta's Replicas Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Microscale Inc.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Mini Auto Werke?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Mini Gifts Distributors Ltd.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Mini Wheels Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Muscle Machine Inc?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Nat\u00fcrlich Autos?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Online Diecast Creations Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Oulu Toy Supplies, Inc.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Royal Canadian Collectables, Ltd.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Salzburg Collectables?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Scandinavian Gift Ideas?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Tekni Collectables Inc.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Tokyo Collectables, Ltd?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Volvo Model Replicas, Co?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "What is the total quantity ordered for Warburg Exchange?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Anna's Decorations, Ltd?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Asian Treasures, Inc.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Auto-Moto Classics Inc.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Clover Collections, Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Corporate Gift Ideas Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by FunGiftIdeas.com?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Havel & Zbyszek Co?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Heintze Collectables?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Iberia Gift Imports, Corp.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by La Rochelle Gifts?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Nat\u00fcrlich Autos?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Online Mini Collectables?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Oulu Toy Supplies, Inc.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Royal Canadian Collectables, Ltd.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Stylish Desk Decors, Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Total quantity ordered by Toms Spezialit\u00e4ten, Ltd?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Alpha Cognac ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has ANG Resellers ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Anna's Decorations, Ltd ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Anton Designs, Ltd. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Atelier graphique ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Auto Associ\u00e9s & Cie. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Baane Mini Imports ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has BG&E Collectables ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Classic Legends Inc. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Collectables For Less Inc. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Daedalus Designs Imports ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Danish Wholesale Imports ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Diecast Classics Inc. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Diecast Collectables ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Down Under Souveniers, Inc ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Enaco Distributors ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Extreme Desk Decorations, Ltd ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Gift Depot Inc. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has giftsbymail.co.uk ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Havel & Zbyszek Co ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Herkku Gifts ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Iberia Gift Imports, Corp. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Kelly's Gift Shop ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Kremlin Collectables, Co. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Marseille Mini Autos ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Marta's Replicas Co. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Messner Shopping Network ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Mini Classics ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Mini Creations Ltd. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Mini Gifts Distributors Ltd. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Mini Wheels Co. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Mit Vergn\u00fcgen & Co. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Petit Auto ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Porto Imports Co. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Rovelli Gifts ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Salzburg Collectables ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Souveniers And Things Co. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Super Scale Inc. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Technics Stores Inc. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has The Sharp Gifts Warehouse ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has UK Collectables, Ltd. ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How much quantity has Vida Sport, Ltd ordered in total?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Alpha Cognac?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Asian Shopping Network, Co?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Atelier graphique?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Auto Canal+ Petit?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Boards & Toys Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Classic Legends Inc.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Daedalus Designs Imports?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Double Decker Gift Stores, Ltd?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Dragon Souveniers, Ltd.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Extreme Desk Decorations, Ltd?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Frau da Collezione?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Gift Ideas Corp.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Handji Gifts& Co?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by King Kong Collectables, Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by La Rochelle Gifts?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Lisboa Souveniers, Inc?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Marseille Mini Autos?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Mit Vergn\u00fcgen & Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Muscle Machine Inc?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Raanan Stores, Inc?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Stylish Desk Decors, Co.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Tokyo Collectables, Ltd?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by UK Collectables, Ltd.?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "Quantity count for orders placed by Volvo Model Replicas, Co?",
+    "label": 5,
+    "label_text": "ncl3"
+  },
+  {
+    "text": "How many orders were placed by American Souvenirs Inc?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Anna's Decorations, Ltd?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Anton Designs, Ltd.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Auto-Moto Classics Inc.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Bavarian Collectables Imports, Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by BG&E Collectables?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Blauer See Auto, Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Clover Collections, Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Collectable Mini Designs Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Corporate Gift Ideas Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Diecast Collectables?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Double Decker Gift Stores, Ltd?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Extreme Desk Decorations, Ltd?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Feuer Online Stores, Inc?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by FunGiftIdeas.com?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Gifts4AllAges.com?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Heintze Collectables?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by La Corne D'abondance, Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Land of Toys Inc.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Lyon Souveniers?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Mini Auto Werke?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Mini Classics?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Mini Creations Ltd.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Mini Wheels Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Oulu Toy Supplies, Inc.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Precious Collectables?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Raanan Stores, Inc?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Signal Gift Stores?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Stuttgart Collectable Exchange?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Vida Sport, Ltd?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders were placed by Volvo Model Replicas, Co?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by American Souvenirs Inc?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Atelier graphique?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Australian Collectables, Ltd?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Australian Gift Network, Co?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Auto-Moto Classics Inc.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Baane Mini Imports?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Blauer See Auto, Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Canadian Gift Exchange Network?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Classic Legends Inc.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Clover Collections, Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Cramer Spezialit\u00e4ten, Ltd?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Double Decker Gift Stores, Ltd?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by L'ordine Souveniers?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Lyon Souveniers?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Mini Classics?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Motor Mint Distributors Inc.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Norway Gifts By Mail, Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Petit Auto?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Saveley & Henriot, Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Signal Collectibles Ltd.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Souveniers And Things Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Stuttgart Collectable Exchange?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by Suominen Souveniers?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by UK Collectables, Ltd.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Number of orders placed by West Coast Collectables Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did ANG Resellers place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Anna's Decorations, Ltd place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did AV Stores, Co. place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Bavarian Collectables Imports, Co. place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Boards & Toys Co. place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Collectables For Less Inc. place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Corrida Auto Replicas, Ltd place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Cramer Spezialit\u00e4ten, Ltd place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Der Hund Imports place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Down Under Souveniers, Inc place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Dragon Souveniers, Ltd. place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Feuer Online Stores, Inc place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Kelly's Gift Shop place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Lisboa Souveniers, Inc place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Marseille Mini Autos place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Microscale Inc. place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Norway Gifts By Mail, Co. place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Precious Collectables place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Qu\u00e9bec Home Shopping Network place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Reims Collectables place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Signal Collectibles Ltd. place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did Super Scale Inc. place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "How many orders did UK Collectables, Ltd. place?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for each customer name?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for American Souvenirs Inc?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Amica Models & Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Asian Shopping Network, Co?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Australian Collectables, Ltd?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for AV Stores, Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for CAF Imports?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Classic Gift Ideas, Inc?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Clover Collections, Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Collectables For Less Inc.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Double Decker Gift Stores, Ltd?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Enaco Distributors?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Extreme Desk Decorations, Ltd?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Feuer Online Stores, Inc?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Gift Ideas Corp.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Gifts4AllAges.com?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Havel & Zbyszek Co?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Kremlin Collectables, Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Lyon Souveniers?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Marta's Replicas Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Men 'R' US Retailers, Ltd.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Messner Shopping Network?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Mini Classics?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Osaka Souveniers Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Porto Imports Co.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Qu\u00e9bec Home Shopping Network?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Raanan Stores, Inc?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Technics Stores Inc.?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Toms Spezialit\u00e4ten, Ltd?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "Order count for Volvo Model Replicas, Co?",
+    "label": 4,
+    "label_text": "ncl2"
+  },
+  {
+    "text": "What is the average price per unit for 1952 Alpine Renault 1300?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 1996 Moto Guzzi 1100i?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 1964 Mercedes Tour Bus?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 1917 Maxwell Touring Car?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 1948 Porsche Type 356 Roadster?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 18th century schooner?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 1962 Volkswagen Microbus?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 1900s Vintage Bi-Plane?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 1912 Ford Model T Delivery Wagon?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 1969 Chevrolet Camaro Z28?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 2002 Chevy Corvette?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 1940 Ford Delivery Sedan?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for Corsair F4U ( Bird Cage)?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 1900s Vintage Tri-Plane?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 1954 Greyhound Scenicruiser?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for 1974 Ducati 350 Mk3 Desmo?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for America West Airlines B757-200?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for The Titanic?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for The Queen Mary?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What is the average price per unit for Boeing X-32A JSF?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of each product?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1969 Harley Davidson Ultimate Chopper?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1952 Alpine Renault 1300?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 2002 Suzuki XREO?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1969 Corvair Monza?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1965 Aston Martin DB5?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1980s Black Hawk Helicopter?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1964 Mercedes Tour Bus?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1934 Ford V8 Coupe?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1985 Toyota Supra?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1976 Ford Gran Torino?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1970 Chevy Chevelle SS 454?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1970 Dodge Coronet?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1939 Chevrolet Deluxe Coupe?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1962 Volkswagen Microbus?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1956 Porsche 356A Coupe?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of Corsair F4U ( Bird Cage)?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1936 Chrysler Airflow?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1900s Vintage Tri-Plane?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1996 Peterbilt 379 Stake Bed with Outrigger?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of 1974 Ducati 350 Mk3 Desmo?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of Diamond T620 Semi-Skirted Tanker?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of HMS Bounty?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit of F/A 18 Hornet 1/72?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for each product?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1952 Alpine Renault 1300?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1936 Harley Davidson El Knucklehead?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1999 Indy 500 Monte Carlo SS?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1992 Ferrari 360 Spider red?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1969 Dodge Super Bee?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1917 Maxwell Touring Car?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1957 Vespa GS150?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1932 Alfa Romeo 8C2300 Spider Sport?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1904 Buick Runabout?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1957 Corvette Convertible?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1970 Chevy Chevelle SS 454?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1928 British Royal Navy Airplane?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1962 Volkswagen Microbus?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1900s Vintage Bi-Plane?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1982 Lamborghini Diablo?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 2002 Chevy Corvette?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for 1900s Vintage Tri-Plane?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for F/A 18 Hornet 1/72?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "What's the average unit price for Boeing X-32A JSF?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for each product?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1952 Alpine Renault 1300?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1972 Alfa Romeo GTA?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1962 LanciaA Delta 16V?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 2001 Ferrari Enzo?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 2002 Suzuki XREO?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1957 Chevy Pickup?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1980s Black Hawk Helicopter?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1913 Ford Model T Speedster?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1999 Yamaha Speed Boat?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1992 Ferrari 360 Spider red?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for Collectable Wooden Train?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1976 Ford Gran Torino?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1948 Porsche Type 356 Roadster?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1970 Triumph Spitfire?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1904 Buick Runabout?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1970 Dodge Coronet?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1928 British Royal Navy Airplane?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1962 Volkswagen Microbus?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1952 Citroen-15CV?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1969 Chevrolet Camaro Z28?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1971 Alpine Renault 1600s?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1940 Ford Delivery Sedan?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1992 Porsche Cayenne Turbo Silver?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1936 Chrysler Airflow?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1900s Vintage Tri-Plane?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1982 Ducati 996 R?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1950's Chicago Surface Lines Streetcar?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1996 Peterbilt 379 Stake Bed with Outrigger?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1928 Ford Phaeton Deluxe?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1974 Ducati 350 Mk3 Desmo?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for 1930 Buick Marquette Phaeton?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for The Mayflower?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for HMS Bounty?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for The USS Constitution Ship?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "Average price per unit for The Queen Mary?",
+    "label": 14,
+    "label_text": "ncl12"
+  },
+  {
+    "text": "How many payments were made by Diane?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Mary?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Julie?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Steve?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by George?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Peter?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Yoshimi?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Diane?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Jeff?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Loui?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Barry?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments did Leslie make?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments did Julie make?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments did Steve make?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments did Peter make?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for William?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Gerard?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Steve?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Pamela?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Peter?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Yoshimi?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "How many payments were made by Nishi?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by King?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Nishi?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Number of payments made by Gerard?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Firrelli?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Jennings?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Fixter?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "Payment count for Gerard?",
+    "label": 12,
+    "label_text": "ncl10"
+  },
+  {
+    "text": "What is the total sales revenue generated in Melbourne?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Lille?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Bridgewater?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Manchester?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Dublin?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Strasbourg?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Barcelona?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Cunewalde?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Cowes?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in North Sydney?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Amsterdam?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in New Bedford?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Philadelphia?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Reims?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Boston?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Nashua?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Stuttgart?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Leipzig?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Glen Waverly?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Milan?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Mannheim?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "What is the total sales revenue generated in Brisbane?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in each city?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Singapore?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Paris?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Cambridge?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Kita-ku?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Brickhaven?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Pasadena?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Barcelona?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in \u00c5rhus?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Cowes?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in K\u00f6ln?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Tsawassen?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Gen\u00e8ve?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Oslo?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Bruxelles?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Cork?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Hatfield?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Boston?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Stuttgart?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Leipzig?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Burbank?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total sales revenue generated in Herzlia?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in each city?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Melbourne?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Tavern?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Frankfurt?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Singapore?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Cambridge?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Central Hong Kong?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Toulouse?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Versailles?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in K\u00f6ln?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in North Sydney?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Amsterdam?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Oulu?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Bruxelles?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Auckland?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Cork?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Hatfield?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in M\u00fcnster?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Nashua?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Minato-ku?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Stuttgart?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Munich?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Leipzig?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Br\u00e4cke?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in San Jose?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Graz?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "How much sales revenue was generated in Burbank?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Nantes?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for San Francisco?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for NYC?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Kobenhavn?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Lyon?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Bergen?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Lille?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Paris?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Manchester?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Brickhaven?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Strasbourg?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Montr\u00e9al?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for San Diego?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Toulouse?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Bergamo?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Gen\u00e8ve?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Berlin?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Oulu?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for White Plains?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Nashua?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Charleroi?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Salzburg?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Munich?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Sales revenue total for Milan?",
+    "label": 8,
+    "label_text": "ncl6"
+  },
+  {
+    "text": "Total amount of payments received for Trucks and Buses?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "How much was the total payment amount received for Classic Cars?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "How much was the total payment amount received for Motorcycles?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "How much was the total payment amount received for Vintage Cars?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "Payment total for each product line?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "Payment total for Classic Cars?",
+    "label": 3,
+    "label_text": "ncl1"
+  },
+  {
+    "text": "Payment total for Vintage Cars?",
+    "label": 3,
+    "label_text": "ncl1"
+  }
+]

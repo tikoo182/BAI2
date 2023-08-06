@@ -1,0 +1,49 @@
+# Compiled output
+BAI2-FE/dist
+BAI2-FE/tmp
+BAI2-FE/out-tsc
+BAI2-FE/bazel-out
+
+# Node
+BAI2-FE/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+BAI2-FE/.idea/
+BAI2-FE/.project
+BAI2-FE/.classpath
+BAI2-FE/.c9/
+BAI2-FE/*.launch
+BAI2-FE/.settings/
+BAI2-FE/*.sublime-workspace
+
+# Visual Studio Code
+BAI2-FE/.vscode/*
+!BAI2-FE/.vscode/settings.json
+!BAI2-FE/.vscode/tasks.json
+!BAI2-FE/.vscode/launch.json
+!BAI2-FE/.vscode/extensions.json
+BAI2-FE/.history/*
+
+# Miscellaneous
+BAI2-FE/.angular/cache
+BAI2-FE/.sass-cache/
+BAI2-FE/connect.lock
+BAI2-FE/coverage
+BAI2-FE/libpeerconnection.log
+BAI2-FE/testem.log
+BAI2-FE/typings
+
+# System files
+BAI2-FE/.DS_Store
+BAI2-FE/Thumbs.db
+
+# Trained Models
+BAI2-BE/bert
+BAI2-BE/bert_result/
+BAI2-BE/spacy
+
+
+# Back-End Other
+BAI2-BE/__pycache__

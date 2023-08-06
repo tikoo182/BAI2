@@ -1,0 +1,96 @@
+each city
+Nantes
+Las Vegas
+Melbourne
+Tavern
+San Rafael
+Warszawa
+Frankfurt
+San Francisco
+NYC
+Madrid
+Luleå
+Kobenhavn
+Lyon
+Singapore
+Allentown
+Burlingame
+Bergen
+New Haven
+Lisboa
+Lille
+Paris
+Cambridge
+Bridgewater
+Kita-ku
+Helsinki
+Manchester
+Dublin
+Brickhaven
+Liverpool
+Vancouver
+Pasadena
+Strasbourg
+Central Hong Kong
+Barcelona
+Glendale
+Cunewalde
+Århus
+Montréal
+San Diego
+Cowes
+Toulouse
+Torino
+Versailles
+Köln
+Tsawassen
+München
+North Sydney
+Bergamo
+Chatswood
+Fribourg
+Genève
+Oslo
+Amsterdam
+Berlin
+Oulu
+Bruxelles
+White Plains
+New Bedford
+Auckland
+London
+Newark
+South Brisbane
+Espoo
+Brandenburg
+Philadelphia
+Los Angeles
+Cork
+Marseille
+Reims
+Hatfield
+Münster
+Boston
+Nashua
+Bern
+Charleroi
+Salzburg
+Makati City
+Reggio Emilia
+Minato-ku
+Stuttgart
+Wellington
+Munich
+Leipzig
+Bräcke
+San Jose
+Graz
+Aachen
+Glen Waverly
+Milan
+Burbank
+Mannheim
+Saint Petersburg
+Herzlia
+Sevilla
+Brisbane

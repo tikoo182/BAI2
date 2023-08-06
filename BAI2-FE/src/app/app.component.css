@@ -1,0 +1,15 @@
+.logo {
+
+    width: 350px;
+    height: auto;
+
+
+}
+
+.logo-container {
+    
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+
+}

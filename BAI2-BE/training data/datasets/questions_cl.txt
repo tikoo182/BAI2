@@ -1,0 +1,12 @@
+What are the top 10 customers based on their credit limit?%cl1
+Who are the top 10 customers with the highest credit limit?%cl1
+Give me a list of the top 10 customers ranked by their credit limit.%cl1
+Which customers have the largest credit limit among the top 10?%cl1
+Which product line has the highest quantity in stock?%cl2
+Which product line has the most items in stock?%cl2
+What product line has the highest stock quantity?%cl2
+Which product line has the largest stock quantity available?%cl2
+Which product has the highest MSRP in each product line?%cl3
+Which product has the highest MSRP in each product line?%cl3
+What is the product with the highest MSRP for each product line?%cl3
+Identify the product with the highest MSRP in each product line.%cl3

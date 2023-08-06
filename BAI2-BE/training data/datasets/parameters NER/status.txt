@@ -1,0 +1,7 @@
+each status category
+Shipped
+Resolved
+Cancelled
+On Hold
+Disputed
+In Process

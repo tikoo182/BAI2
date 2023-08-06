@@ -1,0 +1,13 @@
+How many orders were placed in each city?
+How many orders were placed in Las Vegas?
+
+
+What is the total amount of payments received from each country?
+
+How much sales revenue did Alpha Cognac generate?
+
+
+
+What is the total quantity ordered for each product?
+What is the total quantity ordered for 1969 Harley Davidson Ultimate Chopper?
+What is the total quantity ordered for 1962 LanciaA Delta 16V?

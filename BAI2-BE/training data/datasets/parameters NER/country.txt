@@ -1,0 +1,28 @@
+each country
+France
+USA
+Australia
+Norway
+Poland
+Germany
+Spain
+Sweden
+Denmark
+Singapore
+Portugal
+Japan
+Finland
+UK
+Ireland
+Canada
+Hong Kong
+Italy
+Switzerland
+Netherlands
+Belgium
+New Zealand
+South Africa
+Austria
+Philippines
+Russia
+Israel

@@ -1,0 +1,38 @@
+<!-- Center the input and button using flexbox -->
+<div style="display: flex; justify-content: center; align-items: center;">
+  <!-- Input element for getting data -->
+  <input [(ngModel)]="question" type="text" placeholder="Enter your question here" class="input" (keyup.enter)="getData()" style="margin-right: 10px;" />
+  <!-- Button element for submitting the search -->
+  <button (click)="getData()" class="button">Search</button>
+</div>
+
+
+
+<!-- Render the chart based on rows length -->
+<div style="display: block" *ngIf="rows.length > 1">
+  <ngx-charts-bar-vertical
+    [view]="view"
+    [scheme]="colorScheme"
+    [results]="chartData"
+    [gradient]="gradient"
+    [xAxis]="showXAxis"
+    [yAxis]="showYAxis"
+    [legend]="showLegend"
+    [showXAxisLabel]="showXAxisLabel"
+    [showYAxisLabel]="showYAxisLabel"
+    [xAxisLabel]="xAxisLabel"
+    [yAxisLabel]="yAxisLabel"
+    class="bar-graph"
+  ></ngx-charts-bar-vertical>
+</div>
+
+<!-- Display the KPI card when there is only one row -->
+<div class="index-card" *ngIf="rows.length === 1">
+  <h2>{{ indexCardData?.name }}</h2>
+  <div class="value">{{ indexCardData?.value }}</div>
+</div>
+
+
+
+
+

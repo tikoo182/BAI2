@@ -17,6 +17,8 @@ This repository houses a natural language question-answering platform that empow
 
 ### Project Purpose
 BAI2, or Business Intelligence with AI, is a project that offers a user-friendly natural language interface, empowering users to interact with complex business data effortlessly. The purpose of BAI2 is to share a simple and efficient method for achieving this objective without the need for computationally intensive ML models, making it a valuable resource for BI enthusiasts and developers seeking lightweight NLP solutions.
+### Demo
+[![Project Demo](https://img.youtube.com/vi/edYzUs9ihd8/0.jpg)](https://www.youtube.com/watch?v=edYzUs9ihd8)
 ### Key Features
     1. Simplified NLP Interface: BAI2 employs NLP models to comprehend user questions accurately, facilitating communication with the underlying data.
     2. Simple Data Visualization: Users can easily grasp data trends and patterns with visually appealing and interactive charts, such as bar charts and pie charts.
